@@ -19,3 +19,8 @@ tfoot {
     display: inline-block;
     font-size: 16px;
 }
+#map {
+    width: 100%;
+    height: 400px;
+    background: #d6d6d6;
+}
